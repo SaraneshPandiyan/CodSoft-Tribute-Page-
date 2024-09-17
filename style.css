@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+}
+body{
+    background-color: rgb(70, 187, 40);
+}
+.main-box {
+    width: 1050px;
+    height: 1200px;
+    background-color: #72be5f;
+    box-shadow: 
+    10px 10px 20px rgba(218, 8, 8, 0.5), /* Main shadow */
+    -5px -5px 10px rgba(167, 22, 22, 0.8);
+
+    color: rgb(26, 19, 19);
+    padding: 20px;
+    
+margin-left: 200px;
+    top: 150px;
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+    line-height: 2.9;
+}
+footer{
+    height: 50px;
+    font-size: 1.2rem;
+}
